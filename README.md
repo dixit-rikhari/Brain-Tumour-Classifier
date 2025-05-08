@@ -37,4 +37,4 @@ Images are organized in a folder structure compatible with PyTorch’s `ImageFol
 ## 👨‍💻 Author
 
 - Developed by Dixit Rikhari
-Feel free to connect or collaborate!
+- Feel free to connect or collaborate!
