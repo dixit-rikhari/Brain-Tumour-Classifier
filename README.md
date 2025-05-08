@@ -22,6 +22,19 @@ Images are organized in a folder structure compatible with PyTorch’s `ImageFol
 
 ## 🛠️ Project Structure
 
-- brain_tumour_code_file.ipynb -> Main Jupyter Notebook
-- Brain_Tumour_Dataset -> Original dataset folder
-- Split_Brain_Tumour_Dataset -> Train and validation split folders
+- `brain_tumour_code_file.ipynb` This is the main Jupyter Notebook.
+- `Brain_Tumour_Dataset` It is the dataset folder containing MRI Scans iof healthy and tumourous brain.
+- `Split_Brain_Tumour_Dataset` Train and validation split folders for model training and evaluation.
+- `test_code.ipynb` Notebook file to check Model Accuracy on random MRI Scans.
+- `Test_Images` This folder contains Random MRI scans downloaded from Google.
+
+## 🔍 Future Work
+
+- Integrate segmentation models (e.g., U-Net, DeepLabV3+).
+- Extend to multi-class classification or 3D MRI volumes.
+- Deploy model as a web application for clinical use.
+ 
+## 👨‍💻 Author
+
+- Developed by Dixit Rikhari
+Feel free to connect or collaborate!
