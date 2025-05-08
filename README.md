@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification using Deep Learning
+# 🧠 Brain Tumor Classification using Custom - CNN
 
 This project focuses on classifying brain MRI images as **tumorous** or **healthy** using a deep learning pipeline built with **PyTorch**. It includes data preprocessing, augmentation, training a CNN model, and performance evaluation.
 
@@ -21,6 +21,7 @@ Images are organized in a folder structure compatible with PyTorch’s `ImageFol
 - Real-time training feedback using `tqdm`
 
 ## 🛠️ Project Structure
-/brain_tumour_code_file.ipynb       # Main Jupyter Notebook
-/Brain_Tumour_Dataset              # Original dataset folder
-/Split_Brain_Tumour_Dataset        # Train and validation split folders
+
+- brain_tumour_code_file.ipynb       # Main Jupyter Notebook
+- Brain_Tumour_Dataset              # Original dataset folder
+- Split_Brain_Tumour_Dataset        # Train and validation split folders
